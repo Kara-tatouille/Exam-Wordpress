@@ -1,13 +1,6 @@
 <?php
 /*
-Plugin Name:  Plugin test SEO
-Plugin URI:   https://www.gaido.fr
-Description:  Mon deuxième plugin
-Version:      1.0
-Author:       Romain
-Author URI:   https://www.gaido.fr/romain
-License:      GPL2
-License URI:  https://www.gnu.org/licenses/gpl-2.0.html
+Plugin Name:  Multiple Authors Custom
 */
 
 if (!defined('ABSPATH')) {
