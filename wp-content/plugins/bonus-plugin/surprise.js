@@ -1,0 +1,1 @@
+var easter_egg = new Konami('https://bit.ly/2vy9DPL');
